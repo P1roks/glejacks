@@ -1,0 +1,12 @@
+name = "Glejacks"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dc88301e04010f07942d533defc233c14cc04b45cc809f3a73d8ad8353812e24"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.4"
