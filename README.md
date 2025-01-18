@@ -4,8 +4,8 @@ Szanujący czas sposób na instalację modów na serwer Glejacks
 
 # Jakiego launchera użyć?
 
-Najlepiej Prism, gdyż ma on opcję importu paczek CurseForge/Modrinth ale w zasadzie każdy z taką opcją przejdzie. [Link](https://prismlauncher.org/)
-Jeśli nie masz premium użyj PollyMc, prawdopodobnie działa tak samo, ale go nie testowałem. [Link](https://github.com/fn2006/PollyMC)
+Najlepiej Prism, gdyż ma on opcję importu paczek CurseForge/Modrinth ale w zasadzie każdy z taką opcją przejdzie. [Link](https://prismlauncher.org/#-2162)
+Jeśli nie masz premium użyj PollyMc, prawdopodobnie działa tak samo, ale go nie testowałem. [Link](https://github.com/fn2006/PollyMC#67)
 
 # Jak zaimportować paczkę w Prism?
 
@@ -19,7 +19,7 @@ Wersja full zawiera także mody optymalizujące i ułatwiające życie (mapa, zo
 # Czemu paczka nie wspiera shaderów?
 
 Autor nie lubi shaderów, ale jeśli dana osoba ma inne zdanie to można moda dodającego shadery manualnie doinstalować
-[Link](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+[Link](https://www.curseforge.com/minecraft/mc-mods/irisshaders#1438)
 
 # Folder Modrinth (Rekomendowany)
 
